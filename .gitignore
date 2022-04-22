@@ -4,3 +4,9 @@
 
 */*/python/venv
 */*/python/.env
+
+/python/.env
+/python/venv
+
+/js/.env
+/js/node_modules
